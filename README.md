@@ -1,6 +1,6 @@
 # Deepin Hardware Center
 
-Deepin Hardware-Center: hardware information viewer
+Deepin Hardware Center: hardware information viewer
 
 ## Dependencies
 
